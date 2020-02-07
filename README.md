@@ -1,1 +1,3 @@
-# etherium-solidify
+# inbox
+
+An Etherium app
